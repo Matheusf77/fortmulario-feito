@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(34, 33, 32);
+    color: rgb(0, 0, 0);
+    vertical-align: center;
+    }
+    .quadrado{
+
+    
+    background-color: rgb(190, 190, 180);
+    height: 600px;
+    border-radius: 12%;
+    width: 10cm;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    }
+    form{
+        position: absolute;
+        align-items: center;
+        top: 50%;
+        left: 30%;
+        transform: translate(-50%,-50%);
+        font-size:x-large
+    }
+    input{
+        align-items: center;
+    
+    width: 30px;
+    height: 30px;
+    vertical-align: baseline;
+    }
+    button{
+        size: 20px;
+        width:70px;
+        background-color: aquamarine;
+        color: azure;
+        position: relative;
+        left:  40%;
+    }
+    h1{
+        position:absolute;
+        top: 5%;
+        left:55%;
+        transform: translate(-50%,-50%);
+
+    }
+    
